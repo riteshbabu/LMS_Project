@@ -6,7 +6,7 @@
 // et Hervé Leclerc <herve.leclerc@alterway.fr>
 //  
 // Mise  �our par Herve Leclerc herve.leclerc@alterway.fr
-// Ic󭤳 par Mark James <http://www.famfamfam.com/lab/icons/silk/>
+
 
 
 
